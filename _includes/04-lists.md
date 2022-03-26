@@ -1,5 +1,5 @@
-favourite places-
-mysore
-chennai
-hyderabad
-raipur
+
+-mysore
+-chennai
+-hyderabad
+-raipur
